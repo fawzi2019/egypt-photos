@@ -16,7 +16,7 @@ require_once('components/navbar.inc.php');
 
         <div class="card-body white-text delicate-gradient pt-5 pb-4">
          <!--Grid row-->
-            <div class="row d-flex justify-content-center">
+           
 
                 <!--Grid column-->
                 <div class="col-md-6">
