@@ -11,12 +11,7 @@ require_once('components/navbar.inc.php');
 
 <header>
 
-    <!-- Intro -->
-  
-
-        <div class="card-body white-text delicate-gradient pt-5 pb-4">
-         <!--Grid row-->
-           
+   
 
                 <!--Grid column-->
                 <div class="col-md-6">
