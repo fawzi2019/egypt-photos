@@ -12,7 +12,7 @@ require_once('components/navbar.inc.php');
 <header>
 
     <!-- Intro -->
-    <div class="card card-intro delicate-gradient mb-3">
+  
 
         <div class="card-body white-text delicate-gradient pt-5 pb-4">
          <!--Grid row-->
